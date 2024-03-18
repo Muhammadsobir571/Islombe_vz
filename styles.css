@@ -1,0 +1,257 @@
+          .Main_Block{
+			width: 1137px;
+			height: 600px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid red;
+         	margin: 0px auto;
+
+			}
+			.Block_inner{
+			width: 550px;
+			height: 580px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid red;
+			float: left;
+						
+            }
+            .Block_Two{
+        	width: 550px;
+        	height: 580px;
+        	margin: 4px;
+		    padding: 3px;
+        	border: 2px solid red;
+        	float: left;
+
+            }
+            .Green_one{
+            width: 165px;
+			height: 560px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;	
+            }
+            .Green_two{
+            width: 165px;
+			height: 560px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;
+				
+            }
+            .Green_three{
+            width: 165px;
+			height: 560px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;
+			
+            }
+            .Two_Greenone{
+            width: 330px;
+			height: 280px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;
+            }
+            .Block_Three{
+            width: 180px;
+			height: 280px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;	
+            }
+            .Th_GreenThree{
+            width: 180px;
+			height: 260px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;	
+            }
+            .Th_GreenFour{
+            width: 330px;
+			height: 260px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid green;
+			float: left;	
+            }
+            .Two_Bluenoe{
+            width: 145px;
+			height: 260px;
+		    margin: 4px;
+			padding: 3px;
+			border: 2px solid blue;
+			float: left;
+            }
+            .Two_Bluetwo{
+            width: 145px;
+			height: 260px;
+            margin: 4px;
+			padding: 3px;
+			border: 2px solid blue;
+			float: left;
+			
+            }
+            .Th_BlueOne{
+           	width: 90px;
+			height: 243px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid blue;
+			float: left;
+            }
+            .Th_BlueTwo{
+           	width: 90px;
+			height: 243px;
+			margin: 4px;
+			padding: 3px;
+			border: 2px solid blue;
+			float: left;
+            }
+            .Th_BlueThree{
+           	width: 90px;
+			height: 243px;
+		    margin: 4px;
+			padding: 3px;
+			border: 2px solid blue;
+			float: left;
+            }
+            @media screen and (max-width: 1200px){
+            	.Main_Block{
+            		width: 570px;
+            		height: 1200px;
+            		margin: 0px auto;
+            	}
+            	.Block_inner{
+            		float: left;
+            	}
+
+            	.Th_BlueThree{
+            		width: 95px;
+            	}
+	            @media screen and (max-width: 1000px){
+            	.Main_Block{
+            		width: 440px;
+            		height: 2920px;
+            		margin: 0px auto;
+            	}
+            	.Block_inner{
+            		width: 420px;
+            		height: 1730px;
+            	}
+            	.Block_Two{
+            		width: 420px;
+            		height: 1153px;
+            	}
+            	.Green_one{
+            		float: none;
+            		width: 400px;
+            	}
+            	.Green_two{
+            		float: none;
+            		width: 400px;
+            	}
+            	.Green_three{
+            		float: none;
+            		width: 400px;
+            	}
+            	.Two_Greenone{
+            		width: 400px;
+            	}
+            	.Block_Three{
+            		width: 400px;
+            	}
+            	.Th_GreenThree{
+            		width: 400px;
+            	}
+            	.Th_GreenFour{
+            		width: 400px;
+            	}
+            	.Two_Bluenoe{
+            		width: 180px;
+            	}
+            	.Two_Bluetwo{
+            		width: 180px;
+            	}
+            	.Th_BlueOne{
+            		width: 115px;
+            	}
+            	.Th_BlueTwo{
+            		width: 115px;
+            	}
+            	.Th_BlueThree{
+            		width: 117px;
+            	}
+	            @media screen and (max-width: 800px){
+            	.Main_Block{
+            		width: 320px;
+            		height: 3705px;
+            		margin: 0px auto;
+            	}
+            	.Block_inner{
+            		width: 300px;
+            		height: 1730px;
+            	}
+            	.Block_Two{
+            		width: 300px;
+            		height: 1937px;
+            	}
+            	.Green_one{
+            		float: none;
+            		width: 283px;
+            	}
+            	.Green_two{
+            		float: none;
+            		width: 400px;
+            		width: 283px;
+            	}
+            	.Green_three{
+            		float: none;
+            		width: 400px;
+            		width: 283px;
+            	}
+            	.Two_Greenone{
+            		width: 283px;
+            		height: 550px;
+            	}
+            	.Block_Three{
+            		width: 400px;
+            		width: 283px;
+            	}
+            	.Th_GreenThree{
+            		width: 400px;
+            		width: 283px;
+            	}
+            	.Th_GreenFour{
+            		width: 283px;
+            		height: 775px;
+            	}
+            	.Two_Bluenoe{
+            		width: 264px;
+            		float: none;
+            	}
+            	.Two_Bluetwo{
+            		width: 264px;
+            		float: none;
+            	}
+            	.Th_BlueOne{
+            		width: 264px;
+            		float: none;
+            	}
+            	.Th_BlueTwo{
+            		width: 264px;
+            		float: none;
+            	}
+            	.Th_BlueThree{
+            		width: 264px;
+            		float: none;
+            	}
+            }
